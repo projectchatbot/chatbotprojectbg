@@ -1,0 +1,87 @@
+﻿h1::first-letter {font-size: 38px;}
+
+
+select{
+	width: 265px;
+    padding: 3px 10px;
+}
+
+.hauptüberschrift{
+	text-align: center;
+	font-size: 150%;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 55px;
+}
+
+.main-headline{
+	margin-left:120px;
+	margin-top: 80px;
+}
+
+.description{
+	margin-left: 120px;
+}
+
+h3{
+	font-size: 18px;
+}
+
+.anweisung{
+	margin-left: 120px;
+    margin-right: 120px;
+    background-color: #e7e7e7;
+    padding: 50px;
+    border: 6px solid #163776;
+    border-radius: 15px;
+}
+
+.anw-text{
+	line-height: 22pt;
+}
+
+.btn-fragen{
+	float: right;
+    margin-right: 120px;
+    padding: 6px 10px;
+    font-size: 15pt;
+
+}
+
+.fragen{
+	margin: 50px 0;
+    font-size: 13pt;
+}
+
+
+.footer{
+	background-color: #163776;
+    margin-top: 78px;
+    text-align: center;
+    color: #fff;
+    font-size: 13pt;
+    padding: 5px 0;
+}
+
+.check{
+	margin-left: 120px;
+	margin-right: 870px;
+	background-color: yellow;
+	font-style: italic;
+}
+
+.btn-check{
+	float: right;
+    margin-right: 120px;
+    margin-top: 60px; 
+    padding: 6px 10px;
+    font-size: 15pt;
+    text-align: central;
+    
+}
+
+.test{
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 0 700px 0 120px
+}
