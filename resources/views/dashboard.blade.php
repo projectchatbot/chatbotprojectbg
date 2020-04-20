@@ -83,13 +83,7 @@
 
         </div>
 
-
-
         </main>
-
-        <div class="footer">
-          Copyright @Uni Goettingen
-        </div>
 
 
 </body>

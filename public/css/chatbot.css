@@ -2,7 +2,7 @@
 
 
 select{
-	width: 265px;
+	max-width: 90%;
     padding: 3px 10px;
 }
 
@@ -11,16 +11,18 @@ select{
 	font-size: 150%;
 	font-weight: bold;
 	font-style: italic;
-	margin-bottom: 55px;
+	margin: 0 auto;
+	max-width: 90%;
 }
 
 .main-headline{
-	margin-left:120px;
-	margin-top: 80px;
+	margin:0 auto;
+	max-width: 90%;
 }
 
 .description{
-	margin-left: 120px;
+	margin: 0 auto;
+	max-width: 90%;
 }
 
 h3{
@@ -28,52 +30,43 @@ h3{
 }
 
 .anweisung{
-	margin-left: 120px;
-    margin-right: 120px;
+	margin: 0 auto;
     background-color: #e7e7e7;
     padding: 50px;
     border: 6px solid #163776;
     border-radius: 15px;
+	max-width: 90%;
 }
 
 .anw-text{
 	line-height: 22pt;
+	max-width: 90%;
 }
 
 .btn-fragen{
 	float: right;
-    margin-right: 120px;
+    margin: 0 auto;
     padding: 6px 10px;
     font-size: 15pt;
-
+	max-width: 90%;
 }
 
 .fragen{
-	margin: 50px 0;
+	margin: 0 auto;
     font-size: 13pt;
 }
 
 
-.footer{
-	background-color: #163776;
-    margin-top: 78px;
-    text-align: center;
-    color: #fff;
-    font-size: 13pt;
-    padding: 5px 0;
-}
 
 .check{
 	margin-left: 120px;
 	margin-right: 870px;
-	background-color: yellow;
 	font-style: italic;
 }
 
 .btn-check{
 	float: right;
-    margin-right: 120px;
-    margin-top: 60px; 
+    margin-right: 50px;
     padding: 6px 10px;
     font-size: 15pt;
     text-align: central;
@@ -83,5 +76,5 @@ h3{
 .test{
     border: 3px solid black;
     border-radius: 5px;
-    margin: 0 700px 0 120px
+    margin: 0 auto;
 }
